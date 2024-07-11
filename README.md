@@ -7,9 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Examen BackEnd Isaac Guzman Quintero
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+1.- Para el correcto funcionamiento ejecutar el script de la base de datos que se encuentra en este repsitorio con el nombre de Examen_database_IsaacGuzmanQuintero.sql \
+no es necesario ejecutar las migraciones. \
+2.- Ejecutar el comando "php artisan serve". No hace falta abrir nada en el navegador solo dejar ejecutando el servicio en la terminal.
+
+## Documentation
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
